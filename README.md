@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadya-salesforce
 - 👀 I’m interested in Salesforce Development.
-- 🌱 I’m currently learning Apex.
+- 🌱 I’m currently learning Apex, SOQL, REST API.
 - 💞️ I’m looking to collaborate on Salesforce projects.
 - 📫 You can always reach me at nadya.salesforce@gmail.com
 
